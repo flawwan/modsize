@@ -31,5 +31,5 @@ optional arguments:
 Image file from X-MAS CTF 2018
 
 ```bash
-$ ./modsize.py "examples/celeb.png" out.png
+$ ./modsize.py --height 6000 "examples/celeb.png" out.png
 ```
