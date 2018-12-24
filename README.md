@@ -44,4 +44,6 @@ $ eog out.png
 ```
 ![example image of modsize](examples/xmasflag.png)
 
+## Known issues
 
+* Modifying the width of an .png file will make the image file unable to be opened: "bad adaptive filter value". Not sure if this is something I can fix
