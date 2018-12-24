@@ -32,4 +32,8 @@ Image file from X-MAS CTF 2018
 
 ```bash
 $ ./modsize.py --height 6000 "examples/celeb.png" out.png
+$ eog out.png
 ```
+![example image of modsize][examples/xmasflag.png]
+
+
