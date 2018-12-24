@@ -1,6 +1,6 @@
 # modsize.py
 
-A tool used to change the image size of an image. Currently only .png files are supported. 
+A tool used to change the image height/width property of an image. Currently only .png files are supported. 
 
 
 ## Usage
