@@ -30,6 +30,14 @@ optional arguments:
 
 Image file from X-MAS CTF 2018
 
+*Challenge image*
+
+```bash
+$ eog examples/xmasoriginal.png
+```
+![original challenge image](examples/xmasoriginal.png)
+
+
 ```bash
 $ ./modsize.py --height 6000 "examples/celeb.png" out.png
 $ eog out.png
